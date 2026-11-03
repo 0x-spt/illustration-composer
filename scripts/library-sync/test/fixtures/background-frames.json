@@ -1,0 +1,399 @@
+[
+  {
+    "id": "21:25399",
+    "name": "Фон",
+    "type": "FRAME",
+    "absoluteBoundingBox": {
+      "x": -5466.30908203125,
+      "y": -2641,
+      "width": 1000,
+      "height": 1000
+    },
+    "absoluteRenderBounds": {
+      "x": -5466.30908203125,
+      "y": -2641,
+      "width": 1000,
+      "height": 1000
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.9921568632125854,
+          "g": 0.843137264251709,
+          "b": 0.7254902124404907,
+          "a": 1
+        }
+      }
+    ],
+    "strokes": [],
+    "children": [
+      {
+        "id": "21:25471",
+        "name": "Vector 2",
+        "type": "VECTOR",
+        "rotation": 2.0943951617841434,
+        "absoluteBoundingBox": {
+          "x": -4995.65821389926,
+          "y": -2061.1556354537424,
+          "width": 671.1767685867599,
+          "height": 720.8875388513334
+        },
+        "absoluteRenderBounds": {
+          "x": -4995.658203125,
+          "y": -1902.82958984375,
+          "width": 529.34912109375,
+          "height": 261.82958984375
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.9803921580314636,
+              "g": 0.7843137383460999,
+              "b": 0.5882353186607361,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "21:25465",
+        "name": "Line 6",
+        "type": "LINE",
+        "rotation": 0.5130028236820251,
+        "absoluteBoundingBox": {
+          "x": -5209.1220703125,
+          "y": -2728.72119140625,
+          "width": 787.4778004808941,
+          "height": 443.59231973418355
+        },
+        "absoluteRenderBounds": {
+          "x": -5209.1220703125,
+          "y": -2641,
+          "width": 742.81298828125,
+          "height": 355.87109375
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.8235294222831726,
+              "g": 0.45781978964805603,
+              "b": 0.19494789838790894,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "21:25786",
+        "name": "Line 7",
+        "type": "LINE",
+        "rotation": -0.547501285594162,
+        "absoluteBoundingBox": {
+          "x": -5081.2705078125,
+          "y": -1889.113534947086,
+          "width": 625.2827016260926,
+          "height": 381.2176609236485
+        },
+        "absoluteRenderBounds": {
+          "x": -5082.3115234375,
+          "y": -1890.8211669921875,
+          "width": 616.00244140625,
+          "height": 249.8211669921875
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.8235294222831726,
+              "g": 0.45781978964805603,
+              "b": 0.19494789838790894,
+              "a": 1
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "21:29569",
+    "name": "Group 2136136332",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": -6664.025390625,
+      "y": -1367.4302978515625,
+      "width": 1000,
+      "height": 632.83349609375
+    },
+    "absoluteRenderBounds": {
+      "x": -6664.025390625,
+      "y": -1367.4302978515625,
+      "width": 1000,
+      "height": 632.83349609375
+    },
+    "fills": [],
+    "strokes": [],
+    "children": [
+      {
+        "id": "21:418",
+        "name": "Rectangle 1",
+        "type": "RECTANGLE",
+        "absoluteBoundingBox": {
+          "x": -6664.025390625,
+          "y": -1367.4302978515625,
+          "width": 500,
+          "height": 158.20838928222656
+        },
+        "absoluteRenderBounds": {
+          "x": -6664.025390625,
+          "y": -1367.4302978515625,
+          "width": 500,
+          "height": 158.2083740234375
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.843137264251709,
+              "g": 0.8039215803146362,
+              "b": 0.9607843160629272,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "21:29562",
+        "name": "Rectangle 4",
+        "type": "RECTANGLE",
+        "absoluteBoundingBox": {
+          "x": -6164.025390625,
+          "y": -1367.4302978515625,
+          "width": 500,
+          "height": 158.20838928222656
+        },
+        "absoluteRenderBounds": {
+          "x": -6164.025390625,
+          "y": -1367.4302978515625,
+          "width": 500,
+          "height": 158.2083740234375
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.9764705896377563,
+              "g": 0.9254902005195618,
+              "b": 0.6901960968971252,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "21:29560",
+        "name": "Rectangle 2",
+        "type": "RECTANGLE",
+        "absoluteBoundingBox": {
+          "x": -6664.025390625,
+          "y": -1209.221923828125,
+          "width": 500,
+          "height": 158.20838928222656
+        },
+        "absoluteRenderBounds": {
+          "x": -6664.025390625,
+          "y": -1209.221923828125,
+          "width": 500,
+          "height": 158.2083740234375
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.6666666865348816,
+              "g": 0.6078431606292725,
+              "b": 0.9411764740943909,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "21:29563",
+        "name": "Rectangle 5",
+        "type": "RECTANGLE",
+        "absoluteBoundingBox": {
+          "x": -6164.025390625,
+          "y": -1209.221923828125,
+          "width": 500,
+          "height": 158.20838928222656
+        },
+        "absoluteRenderBounds": {
+          "x": -6164.025390625,
+          "y": -1209.221923828125,
+          "width": 500,
+          "height": 158.2083740234375
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.9764705896377563,
+              "g": 0.6392157077789307,
+              "b": 0.6666666865348816,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "21:29561",
+        "name": "Rectangle 3",
+        "type": "RECTANGLE",
+        "absoluteBoundingBox": {
+          "x": -6664.025390625,
+          "y": -1051.0135498046875,
+          "width": 500,
+          "height": 158.20838928222656
+        },
+        "absoluteRenderBounds": {
+          "x": -6664.025390625,
+          "y": -1051.0135498046875,
+          "width": 500,
+          "height": 158.2083740234375
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "21:29564",
+        "name": "Rectangle 6",
+        "type": "RECTANGLE",
+        "absoluteBoundingBox": {
+          "x": -6164.025390625,
+          "y": -1051.0135498046875,
+          "width": 500,
+          "height": 158.20838928222656
+        },
+        "absoluteRenderBounds": {
+          "x": -6164.025390625,
+          "y": -1051.0135498046875,
+          "width": 500,
+          "height": 158.2083740234375
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 1,
+              "g": 0.8901960849761963,
+              "b": 0.8823529481887817,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "21:29565",
+        "name": "Rectangle 7",
+        "type": "RECTANGLE",
+        "absoluteBoundingBox": {
+          "x": -6664.025390625,
+          "y": -892.80517578125,
+          "width": 500,
+          "height": 158.20838928222656
+        },
+        "absoluteRenderBounds": {
+          "x": -6664.025390625,
+          "y": -892.80517578125,
+          "width": 500,
+          "height": 158.2083740234375
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.0941176488995552,
+              "g": 0.0941176488995552,
+              "b": 0.09019608050584793,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "21:29568",
+        "name": "Rectangle 8",
+        "type": "RECTANGLE",
+        "absoluteBoundingBox": {
+          "x": -6164.025390625,
+          "y": -892.80517578125,
+          "width": 500,
+          "height": 158.20838928222656
+        },
+        "absoluteRenderBounds": {
+          "x": -6164.025390625,
+          "y": -892.80517578125,
+          "width": 500,
+          "height": 158.2083740234375
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build:api && npm run build -w @ic/web",
+  "outputDirectory": "apps/web/dist",
+  "functions": { "api/compose-intent.js": { "maxDuration": 20 } }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "illustration-composer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "apps/*",
+    "scripts/*"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "test": "vitest run",
+    "test:smoke": "npm run build:api && node server/smoke/compose-intent.smoke.mjs",
+    "test:e2e": "npm run test:e2e -w @ic/web",
+    "build": "npm run build:api && npm run build --workspaces --if-present",
+    "build:api": "node server/build.mjs",
+    "typecheck": "npm run typecheck --workspaces --if-present && tsc -p server/tsconfig.json",
+    "library:sync": "tsx scripts/library-sync/main.ts",
+    "library:sync:plugin": "tsx scripts/library-sync/main.ts --from-plugin",
+    "library:plugin-nodes": "tsx scripts/library-sync/plugin-nodes.ts",
+    "library:masks": "tsx scripts/library-sync/masks.ts",
+    "examples": "tsx scripts/library-sync/examples.ts"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "esbuild": "^0.28.2",
+    "eslint": "^9.0.0",
+    "prettier": "^3.9.10",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.0",
+    "typescript-eslint": "^8.72.1",
+    "vitest": "^5.1.0"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.4.0",
+    "zod": "^4.6.7"
+  }
+}

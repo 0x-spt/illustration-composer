@@ -1,0 +1,578 @@
+[
+  {
+    "id": "square-24-2437",
+    "aspect": "square",
+    "scale": 1,
+    "frame": {
+      "width": 1000,
+      "height": 1000
+    },
+    "slots": [
+      {
+        "role": "hero",
+        "cx": 0.0833,
+        "cy": 0.5,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "book"
+      },
+      {
+        "role": "support",
+        "cx": 0.5427,
+        "cy": 0.4391,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "phone"
+      }
+    ],
+    "sourceFrame": "24:2437"
+  },
+  {
+    "id": "square-24-2654",
+    "aspect": "square",
+    "scale": 0.999,
+    "frame": {
+      "width": 1000,
+      "height": 1000
+    },
+    "slots": [
+      {
+        "role": "backdrop",
+        "cx": 0.385,
+        "cy": -0.0412,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "lamp"
+      },
+      {
+        "role": "hero",
+        "cx": 0.45,
+        "cy": 0.7421,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "wallet"
+      },
+      {
+        "role": "support",
+        "cx": 0.7508,
+        "cy": 0.5316,
+        "z": 2,
+        "rotation": 0,
+        "sourceItem": "coin"
+      }
+    ],
+    "sourceFrame": "24:2654"
+  },
+  {
+    "id": "square-24-2914",
+    "aspect": "square",
+    "scale": 0.998,
+    "frame": {
+      "width": 1000,
+      "height": 1000
+    },
+    "slots": [
+      {
+        "role": "support",
+        "cx": 0.348,
+        "cy": 0.7976,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "pen"
+      },
+      {
+        "role": "backdrop",
+        "cx": 0.6022,
+        "cy": 0.2562,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "book"
+      },
+      {
+        "role": "hero",
+        "cx": 0.3394,
+        "cy": 0.269,
+        "z": 2,
+        "rotation": 0,
+        "sourceItem": "puzzle"
+      }
+    ],
+    "sourceFrame": "24:2914"
+  },
+  {
+    "id": "square-24-3057",
+    "aspect": "square",
+    "scale": 1,
+    "frame": {
+      "width": 1000,
+      "height": 1000
+    },
+    "slots": [
+      {
+        "role": "hero",
+        "cx": 0.6509,
+        "cy": 0.3293,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "folder"
+      },
+      {
+        "role": "support",
+        "cx": 0.1356,
+        "cy": 0.7152,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "wallet"
+      },
+      {
+        "role": "support",
+        "cx": 0.6299,
+        "cy": 0.8192,
+        "z": 2,
+        "rotation": 0,
+        "sourceItem": "coin"
+      }
+    ],
+    "sourceFrame": "24:3057"
+  },
+  {
+    "id": "square-24-3312",
+    "aspect": "square",
+    "scale": 0.999,
+    "frame": {
+      "width": 1000,
+      "height": 1000
+    },
+    "slots": [
+      {
+        "role": "hero",
+        "cx": 0.4714,
+        "cy": 0.6153,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "phone"
+      },
+      {
+        "role": "support",
+        "cx": 0.6032,
+        "cy": 0.3178,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "puzzle"
+      }
+    ],
+    "sourceFrame": "24:3312"
+  },
+  {
+    "id": "landscape-24-7656",
+    "aspect": "landscape",
+    "scale": 0.999,
+    "frame": {
+      "width": 1200,
+      "height": 630
+    },
+    "slots": [
+      {
+        "role": "hero",
+        "cx": 0.4192,
+        "cy": 0.609,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "phone"
+      },
+      {
+        "role": "support",
+        "cx": 0.7508,
+        "cy": 0.3577,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "puzzle"
+      }
+    ],
+    "sourceFrame": "24:7656"
+  },
+  {
+    "id": "landscape-24-8127",
+    "aspect": "landscape",
+    "scale": 0.999,
+    "frame": {
+      "width": 1200,
+      "height": 630
+    },
+    "slots": [
+      {
+        "role": "backdrop",
+        "cx": 0.1645,
+        "cy": -0.0085,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "vase"
+      },
+      {
+        "role": "hero",
+        "cx": 0.6377,
+        "cy": 0.6716,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "headphones"
+      }
+    ],
+    "sourceFrame": "24:8127"
+  },
+  {
+    "id": "landscape-24-8002",
+    "aspect": "landscape",
+    "scale": 1,
+    "frame": {
+      "width": 1200,
+      "height": 630
+    },
+    "slots": [
+      {
+        "role": "hero",
+        "cx": 0.2853,
+        "cy": 0.2657,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "book"
+      },
+      {
+        "role": "support",
+        "cx": 0.7572,
+        "cy": 0.3363,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "phone"
+      }
+    ],
+    "sourceFrame": "24:8002"
+  },
+  {
+    "id": "landscape-24-8191",
+    "aspect": "landscape",
+    "scale": 0.999,
+    "frame": {
+      "width": 1200,
+      "height": 630
+    },
+    "slots": [
+      {
+        "role": "backdrop",
+        "cx": 0.378,
+        "cy": -0.3608,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "lamp"
+      },
+      {
+        "role": "support",
+        "cx": 0.8685,
+        "cy": 0.3543,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "coin"
+      },
+      {
+        "role": "hero",
+        "cx": 0.5124,
+        "cy": 0.7761,
+        "z": 2,
+        "rotation": 0,
+        "sourceItem": "wallet"
+      }
+    ],
+    "sourceFrame": "24:8191"
+  },
+  {
+    "id": "landscape-24-8070",
+    "aspect": "landscape",
+    "scale": 1,
+    "frame": {
+      "width": 1200,
+      "height": 630
+    },
+    "slots": [
+      {
+        "role": "hero",
+        "cx": 0.682,
+        "cy": 0.2025,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "folder"
+      },
+      {
+        "role": "support",
+        "cx": 0.4665,
+        "cy": 0.8346,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "coin"
+      },
+      {
+        "role": "support",
+        "cx": 0.0844,
+        "cy": 0.639,
+        "z": 2,
+        "rotation": 0,
+        "sourceItem": "wallet"
+      }
+    ],
+    "sourceFrame": "24:8070"
+  },
+  {
+    "id": "landscape-24-8248",
+    "aspect": "landscape",
+    "scale": 0.998,
+    "frame": {
+      "width": 1200,
+      "height": 630
+    },
+    "slots": [
+      {
+        "role": "support",
+        "cx": 0.2423,
+        "cy": 0.6828,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "pen"
+      },
+      {
+        "role": "backdrop",
+        "cx": 0.773,
+        "cy": 0.1558,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "book"
+      },
+      {
+        "role": "hero",
+        "cx": 0.5589,
+        "cy": 0.1484,
+        "z": 2,
+        "rotation": 0,
+        "sourceItem": "puzzle"
+      }
+    ],
+    "sourceFrame": "24:8248"
+  },
+  {
+    "id": "portrait-24-9802",
+    "aspect": "portrait",
+    "scale": 0.999,
+    "frame": {
+      "width": 800,
+      "height": 1200
+    },
+    "slots": [
+      {
+        "role": "hero",
+        "cx": 0.4288,
+        "cy": 0.5864,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "phone"
+      },
+      {
+        "role": "support",
+        "cx": 0.5866,
+        "cy": 0.2832,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "puzzle"
+      }
+    ],
+    "sourceFrame": "24:9802"
+  },
+  {
+    "id": "portrait-24-9813",
+    "aspect": "portrait",
+    "scale": 1,
+    "frame": {
+      "width": 800,
+      "height": 1200
+    },
+    "slots": [
+      {
+        "role": "hero",
+        "cx": 0.0554,
+        "cy": 0.5,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "book"
+      },
+      {
+        "role": "support",
+        "cx": 0.7632,
+        "cy": 0.5371,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "phone"
+      }
+    ],
+    "sourceFrame": "24:9813"
+  },
+  {
+    "id": "portrait-24-9829",
+    "aspect": "portrait",
+    "scale": 1,
+    "frame": {
+      "width": 800,
+      "height": 1200
+    },
+    "slots": [
+      {
+        "role": "hero",
+        "cx": 0.7207,
+        "cy": 0.2712,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "folder"
+      },
+      {
+        "role": "support",
+        "cx": 0.7256,
+        "cy": 0.8072,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "coin"
+      },
+      {
+        "role": "support",
+        "cx": 0.1701,
+        "cy": 0.6526,
+        "z": 2,
+        "rotation": 0,
+        "sourceItem": "wallet"
+      }
+    ],
+    "sourceFrame": "24:9829"
+  },
+  {
+    "id": "portrait-24-9833",
+    "aspect": "portrait",
+    "scale": 0.999,
+    "frame": {
+      "width": 800,
+      "height": 1200
+    },
+    "slots": [
+      {
+        "role": "backdrop",
+        "cx": 0.749,
+        "cy": 0.1526,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "vase"
+      },
+      {
+        "role": "hero",
+        "cx": 0.5551,
+        "cy": 0.6943,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "headphones"
+      }
+    ],
+    "sourceFrame": "24:9833"
+  },
+  {
+    "id": "portrait-24-9844",
+    "aspect": "portrait",
+    "scale": 0.999,
+    "frame": {
+      "width": 800,
+      "height": 1200
+    },
+    "slots": [
+      {
+        "role": "backdrop",
+        "cx": 0.4157,
+        "cy": -0.02,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "lamp"
+      },
+      {
+        "role": "support",
+        "cx": 0.7236,
+        "cy": 0.5473,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "coin"
+      },
+      {
+        "role": "hero",
+        "cx": 0.4379,
+        "cy": 0.7559,
+        "z": 2,
+        "rotation": 0,
+        "sourceItem": "wallet"
+      }
+    ],
+    "sourceFrame": "24:9844"
+  },
+  {
+    "id": "portrait-24-9848",
+    "aspect": "portrait",
+    "scale": 0.998,
+    "frame": {
+      "width": 800,
+      "height": 1200
+    },
+    "slots": [
+      {
+        "role": "support",
+        "cx": 0.3446,
+        "cy": 0.8088,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "pen"
+      },
+      {
+        "role": "backdrop",
+        "cx": 0.5896,
+        "cy": 0.2995,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "book"
+      },
+      {
+        "role": "hero",
+        "cx": 0.3108,
+        "cy": 0.2942,
+        "z": 2,
+        "rotation": 0,
+        "sourceItem": "puzzle"
+      }
+    ],
+    "sourceFrame": "24:9848"
+  },
+  {
+    "id": "square-24-3592",
+    "aspect": "square",
+    "scale": 0.999,
+    "frame": {
+      "width": 1000,
+      "height": 1000
+    },
+    "slots": [
+      {
+        "role": "backdrop",
+        "cx": 0.2624,
+        "cy": 0,
+        "z": 0,
+        "rotation": 0,
+        "sourceItem": "vase"
+      },
+      {
+        "role": "hero",
+        "cx": 0.6365,
+        "cy": 0.6281,
+        "z": 1,
+        "rotation": 0,
+        "sourceItem": "headphones"
+      }
+    ],
+    "sourceFrame": "24:3592"
+  }
+]

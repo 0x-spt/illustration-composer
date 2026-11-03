@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+.vercel/
+.superpowers/
+coverage/
+test-results/
+playwright-report/
+.figma-export/
+.env
+.env*.local

@@ -1,0 +1,70 @@
+/*
+ * Ink and paper: the chrome is drawn in the illustrations' own outline colour on a warm
+ * ground, so the interface never argues with the picture. Colour comes from the palette:
+ * --accent* are set at runtime from it (see App.tsx / accent.ts).
+ */
+:root {
+  --font: 'Onest', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --mono: 'JetBrains Mono', ui-monospace, 'SFMono-Regular', Consolas, monospace;
+
+  --chrome: #ffffff;
+  --workspace: #eceae4;
+  --workspace-dot: #d6d2c8;
+  --sunken: #f4f2ee;
+  --raised: #faf9f6;
+  --line: #e7e4dd;
+  --line-strong: #d6d2c8;
+  --hover: #f4f2ee;
+  --press: #eceae4;
+
+  --ink: #181817;
+  --ink-hover: #2e2d2a;
+  --text: #181817;
+  --text-2: #5f5d58;
+  --text-3: #8a877f;
+  --danger: #c4283f;
+  --ok: #2e7d4f;
+
+  --accent: #7864d7;
+  --accent-ink: #ffffff;
+  --accent-soft: color-mix(in srgb, var(--accent) 14%, transparent);
+  --accent-line: color-mix(in srgb, var(--accent) 55%, transparent);
+
+  --fs-xs: 11px;
+  --fs-s: 12px;
+  --fs-m: 13px;
+  --fs-l: 15px;
+  --fs-xl: 17px;
+
+  --r-s: 6px;
+  --r-m: 9px;
+  --r-l: 12px;
+  --r-xl: 14px;
+  --r-card: 18px;
+  --r-dock: 20px;
+
+  --gap: 12px;
+  --left-w: 288px;
+  --right-w: 312px;
+  --control-h: 36px;
+
+  --shadow-card: 0 1px 2px rgb(24 24 23 / 6%);
+  --shadow-float: 0 1px 2px rgb(24 24 23 / 6%), 0 16px 40px -16px rgb(24 24 23 / 28%);
+  --shadow-frame: 0 2px 6px rgb(24 24 23 / 8%), 0 24px 60px -24px rgb(24 24 23 / 35%);
+  --shadow-pop: 0 12px 30px -10px rgb(24 24 23 / 45%);
+
+  --ease: cubic-bezier(0.2, 0, 0, 1);
+}
+
+@media (max-width: 1360px) {
+  :root {
+    --left-w: 256px;
+    --right-w: 280px;
+  }
+}
+
+@media (max-width: 640px) {
+  :root {
+    --gap: 8px;
+  }
+}

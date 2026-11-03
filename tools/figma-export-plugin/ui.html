@@ -1,0 +1,103 @@
+<style>
+  body {
+    font:
+      13px/1.4 system-ui,
+      sans-serif;
+    margin: 16px;
+    color: #181817;
+  }
+  button {
+    font: inherit;
+    padding: 6px 14px;
+    margin-right: 6px;
+    cursor: pointer;
+  }
+  #status {
+    margin: 12px 0;
+    white-space: pre-wrap;
+  }
+  #missing {
+    color: #b00020;
+    white-space: pre-wrap;
+    max-height: 80px;
+    overflow: auto;
+  }
+  .hidden {
+    display: none;
+  }
+</style>
+<button id="run">Экспорт</button>
+<div id="status">Нажмите «Экспорт».</div>
+<div id="done" class="hidden">
+  <button id="download">Скачать figma-export.json</button>
+  <button id="copy">Скопировать</button>
+</div>
+<div id="missing"></div>
+<textarea id="clip" class="hidden"></textarea>
+<script>
+  var text = '';
+  var $ = function (id) {
+    return document.getElementById(id);
+  };
+
+  $('run').onclick = function () {
+    $('run').disabled = true;
+    $('done').className = 'hidden';
+    $('missing').textContent = '';
+    $('status').textContent = 'Готовлю список узлов…';
+    parent.postMessage({ pluginMessage: { type: 'export' } }, '*');
+  };
+
+  function download() {
+    var blob = new Blob([text], { type: 'application/json' });
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'figma-export.json';
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+  }
+  $('download').onclick = download;
+
+  // navigator.clipboard is blocked inside Figma's plugin iframe; use a textarea + execCommand.
+  $('copy').onclick = function () {
+    var t = $('clip');
+    t.className = '';
+    t.value = text;
+    t.select();
+    var ok = document.execCommand('copy');
+    t.className = 'hidden';
+    $('status').textContent = ok
+      ? 'Скопировано. Вставьте в файл figma-export.json.'
+      : 'Не удалось скопировать — используйте «Скачать».';
+  };
+
+  onmessage = function (event) {
+    var msg = event.data.pluginMessage;
+    if (!msg) return;
+    if (msg.type === 'progress') {
+      $('status').textContent = 'Экспорт: ' + msg.done + ' / ' + msg.total;
+    } else if (msg.type === 'done') {
+      var r = msg.result;
+      text = JSON.stringify(r);
+      $('run').disabled = false;
+      $('done').className = '';
+      $('status').textContent =
+        'Готово: SVG ' +
+        Object.keys(r.svgs).length +
+        ', PNG ' +
+        Object.keys(r.pngs).length +
+        ', ' +
+        (text.length / 1048576).toFixed(1) +
+        ' МБ.';
+      if (r.missing.length) {
+        $('missing').textContent =
+          'Не найдено/ошибки (' + r.missing.length + '):\n' + r.missing.join('\n');
+      }
+      download();
+    } else if (msg.type === 'error') {
+      $('run').disabled = false;
+      $('status').textContent = 'Ошибка: ' + msg.message;
+    }
+  };
+</script>

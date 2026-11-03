@@ -1,0 +1,1879 @@
+[
+  {
+    "id": "24:2437",
+    "name": "Фон",
+    "type": "FRAME",
+    "absoluteBoundingBox": {
+      "x": 4195,
+      "y": 0,
+      "width": 1000,
+      "height": 1000
+    },
+    "absoluteRenderBounds": {
+      "x": 4195,
+      "y": 0,
+      "width": 1000,
+      "height": 1000
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.843137264251709,
+          "g": 0.8039215803146362,
+          "b": 0.9607843160629272,
+          "a": 1
+        }
+      }
+    ],
+    "strokes": [],
+    "children": [
+      {
+        "id": "24:2438",
+        "name": "Vector 2",
+        "type": "VECTOR",
+        "rotation": 2.0943951617841434,
+        "absoluteBoundingBox": {
+          "x": 4665.65037985074,
+          "y": 579.8444255814138,
+          "width": 671.1767685867599,
+          "height": 720.8875388513334
+        },
+        "absoluteRenderBounds": {
+          "x": 4665.650390625,
+          "y": 738.1705322265625,
+          "width": 529.349609375,
+          "height": 261.8294677734375
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.6666666865348816,
+              "g": 0.6078431606292725,
+              "b": 0.9411764740943909,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "24:2439",
+        "name": "Line 6",
+        "type": "LINE",
+        "rotation": 0.5130028236820251,
+        "absoluteBoundingBox": {
+          "x": 4452.1865234375,
+          "y": -87.72122955322266,
+          "width": 787.4778004808941,
+          "height": 443.59231973418355
+        },
+        "absoluteRenderBounds": {
+          "x": 4452.1865234375,
+          "y": 0,
+          "width": 742.8134765625,
+          "height": 355.87109375
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "24:2440",
+        "name": "Line 7",
+        "type": "LINE",
+        "rotation": -0.547501285594162,
+        "absoluteBoundingBox": {
+          "x": 4580.03857421875,
+          "y": 751.886465052914,
+          "width": 625.2827016260926,
+          "height": 381.2176609236485
+        },
+        "absoluteRenderBounds": {
+          "x": 4578.99755859375,
+          "y": 750.1788330078125,
+          "width": 616.00244140625,
+          "height": 249.8211669921875
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "24:2442",
+        "name": "Vector",
+        "type": "VECTOR",
+        "absoluteBoundingBox": {
+          "x": 4581.75390625,
+          "y": 459.2844543457031,
+          "width": 16.968917846679688,
+          "height": 23.600168228149414
+        },
+        "absoluteRenderBounds": {
+          "x": 4581.75390625,
+          "y": 459.2844543457031,
+          "width": 16.96875,
+          "height": 23.60015869140625
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "24:2443",
+        "name": "Книга",
+        "type": "GROUP",
+        "absoluteBoundingBox": {
+          "x": 3555.3466796875,
+          "y": 11.66796875,
+          "width": 1445.892578125,
+          "height": 976.664306640625
+        },
+        "absoluteRenderBounds": {
+          "x": 4195,
+          "y": 11.66796875,
+          "width": 806.2392578125,
+          "height": 976.664306640625
+        },
+        "fills": [],
+        "strokes": [],
+        "children": [
+          {
+            "id": "24:2444",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3555.3466796875,
+              "y": 11.66796875,
+              "width": 1445.892578125,
+              "height": 976.6642456054688
+            },
+            "absoluteRenderBounds": {
+              "x": 4195,
+              "y": 11.66796875,
+              "width": 806.2392578125,
+              "height": 976.6641845703125
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.0941176488995552,
+                  "g": 0.0941176488995552,
+                  "b": 0.09019608050584793,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:2446",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 4386.10595703125,
+              "y": 656.7996215820312,
+              "width": 284.7008361816406,
+              "height": 248.61083984375
+            },
+            "absoluteRenderBounds": {
+              "x": 4386.10595703125,
+              "y": 656.7996215820312,
+              "width": 284.70068359375,
+              "height": 248.61083984375
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.9764705896377563,
+                  "g": 0.6392157077789307,
+                  "b": 0.6666666865348816,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:2449",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 4139.8154296875,
+              "y": 709.5367431640625,
+              "width": 271.2331848144531,
+              "height": 157.07981872558594
+            },
+            "absoluteRenderBounds": {
+              "x": 4195,
+              "y": 709.5367431640625,
+              "width": 216.048828125,
+              "height": 157.079833984375
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1,
+                  "g": 0.8901960849761963,
+                  "b": 0.8823529481887817,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:2450",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 4193.5322265625,
+              "y": 725.8434448242188,
+              "width": 216.75245666503906,
+              "height": 128.4395751953125
+            },
+            "absoluteRenderBounds": {
+              "x": 4195,
+              "y": 725.8434448242188,
+              "width": 215.28466796875,
+              "height": 128.4395751953125
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.9764705896377563,
+                  "g": 0.9254902005195618,
+                  "b": 0.6901960968971252,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:2466",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3587.710693359375,
+              "y": 509.6804504394531,
+              "width": 538.563232421875,
+              "height": 359.3088073730469
+            },
+            "absoluteRenderBounds": null,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          }
+        ]
+      },
+      {
+        "id": "24:2497",
+        "name": "Телефон",
+        "type": "GROUP",
+        "absoluteBoundingBox": {
+          "x": 4339.4296875,
+          "y": 208.216552734375,
+          "width": 796.5315551757812,
+          "height": 461.6672058105469
+        },
+        "absoluteRenderBounds": {
+          "x": 4339.4296875,
+          "y": 208.216552734375,
+          "width": 796.53173828125,
+          "height": 461.667236328125
+        },
+        "fills": [],
+        "strokes": [],
+        "children": [
+          {
+            "id": "24:2498",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 4339.4296875,
+              "y": 208.216552734375,
+              "width": 796.5314331054688,
+              "height": 461.6670837402344
+            },
+            "absoluteRenderBounds": {
+              "x": 4339.4296875,
+              "y": 208.216552734375,
+              "width": 796.53125,
+              "height": 461.6671142578125
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.0941176488995552,
+                  "g": 0.0941176488995552,
+                  "b": 0.09019608050584793,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:2499",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 4342.76318359375,
+              "y": 210.1106414794922,
+              "width": 715.1581420898438,
+              "height": 419.0478210449219
+            },
+            "absoluteRenderBounds": {
+              "x": 4342.76318359375,
+              "y": 210.1106414794922,
+              "width": 715.158203125,
+              "height": 419.0478515625
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:2501",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 4547.96630859375,
+              "y": 396.5799255371094,
+              "width": 446.8140563964844,
+              "height": 191.6998748779297
+            },
+            "absoluteRenderBounds": {
+              "x": 4547.96630859375,
+              "y": 396.5799255371094,
+              "width": 446.81396484375,
+              "height": 191.69985961914062
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.9764705896377563,
+                  "g": 0.9254902005195618,
+                  "b": 0.6901960968971252,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:2508",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 5025.46240234375,
+              "y": 505.328369140625,
+              "width": 3.5704448223114014,
+              "height": 2.7748069763183594
+            },
+            "absoluteRenderBounds": {
+              "x": 5025.46240234375,
+              "y": 505.328369140625,
+              "width": 3.5703125,
+              "height": 2.774810791015625
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.13333334028720856,
+                  "g": 0.13333334028720856,
+                  "b": 0.12941177189350128,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:2517",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 4662.63134765625,
+              "y": 322.5860595703125,
+              "width": 264.3795471191406,
+              "height": 160.58351135253906
+            },
+            "absoluteRenderBounds": {
+              "x": 4662.63134765625,
+              "y": 322.5860595703125,
+              "width": 264.37939453125,
+              "height": 160.58349609375
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.843137264251709,
+                  "g": 0.8039215803146362,
+                  "b": 0.9607843160629272,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:2593",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 4962.44677734375,
+              "y": 491.4195251464844,
+              "width": 96.26366424560547,
+              "height": 87.88448333740234
+            },
+            "absoluteRenderBounds": {
+              "x": 4962.44677734375,
+              "y": 491.4195251464844,
+              "width": 96.263671875,
+              "height": 87.88449096679688
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.47058823704719543,
+                  "g": 0.3921568691730499,
+                  "b": 0.843137264251709,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "24:8127",
+    "name": "Фон",
+    "type": "FRAME",
+    "absoluteBoundingBox": {
+      "x": 3107,
+      "y": 3498,
+      "width": 1200,
+      "height": 630
+    },
+    "absoluteRenderBounds": {
+      "x": 3107,
+      "y": 3498,
+      "width": 1200,
+      "height": 630
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.843137264251709,
+          "g": 0.8039215803146362,
+          "b": 0.9607843160629272,
+          "a": 1
+        }
+      }
+    ],
+    "strokes": [],
+    "children": [
+      {
+        "id": "24:8128",
+        "name": "Group",
+        "type": "GROUP",
+        "visible": false,
+        "absoluteBoundingBox": {
+          "x": 3130.311767578125,
+          "y": 3731.177001953125,
+          "width": 66.43534088134766,
+          "height": 37.22492980957031
+        },
+        "absoluteRenderBounds": null,
+        "fills": [],
+        "strokes": []
+      },
+      {
+        "id": "24:8132",
+        "name": "Group",
+        "type": "GROUP",
+        "visible": false,
+        "absoluteBoundingBox": {
+          "x": 3926.47021484375,
+          "y": 3776.5927734375,
+          "width": 144.00741577148438,
+          "height": 67.31684112548828
+        },
+        "absoluteRenderBounds": null,
+        "fills": [],
+        "strokes": []
+      },
+      {
+        "id": "24:8136",
+        "name": "Vector",
+        "type": "VECTOR",
+        "visible": false,
+        "absoluteBoundingBox": {
+          "x": 3759.4248046875,
+          "y": 4105.037109375,
+          "width": 113.8900146484375,
+          "height": 51.24958038330078
+        },
+        "absoluteRenderBounds": null,
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.9647058844566345,
+              "g": 0.9647058844566345,
+              "b": 0.9647058844566345,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "24:8137",
+        "name": "Vector",
+        "type": "VECTOR",
+        "visible": false,
+        "absoluteBoundingBox": {
+          "x": 3755.85498046875,
+          "y": 4107.0673828125,
+          "width": 117.56877136230469,
+          "height": 51.47887420654297
+        },
+        "absoluteRenderBounds": null,
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.4588235318660736,
+              "g": 0.4588235318660736,
+              "b": 0.4588235318660736,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "24:8138",
+        "name": "Vector",
+        "type": "VECTOR",
+        "visible": false,
+        "absoluteBoundingBox": {
+          "x": 3725.06494140625,
+          "y": 4245.7890625,
+          "width": 65.82000732421875,
+          "height": 35.82000732421875
+        },
+        "absoluteRenderBounds": null,
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.8020209074020386,
+              "g": 0.8020209074020386,
+              "b": 0.8020209074020386,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "24:8139",
+        "name": "Group",
+        "type": "GROUP",
+        "visible": false,
+        "absoluteBoundingBox": {
+          "x": 3682.15771484375,
+          "y": 4217.1630859375,
+          "width": 280.09942626953125,
+          "height": 242.1248016357422
+        },
+        "absoluteRenderBounds": null,
+        "fills": [],
+        "strokes": []
+      },
+      {
+        "id": "24:8154",
+        "name": "Group",
+        "type": "GROUP",
+        "visible": false,
+        "absoluteBoundingBox": {
+          "x": 3949.28466796875,
+          "y": 4242.2294921875,
+          "width": 134.66986083984375,
+          "height": 55.02001953125
+        },
+        "absoluteRenderBounds": null,
+        "fills": [],
+        "strokes": []
+      },
+      {
+        "id": "24:8158",
+        "name": "Group",
+        "type": "GROUP",
+        "visible": false,
+        "absoluteBoundingBox": {
+          "x": 3408.004638671875,
+          "y": 3476.509033203125,
+          "width": 134.68008422851562,
+          "height": 55.02000427246094
+        },
+        "absoluteRenderBounds": null,
+        "fills": [],
+        "strokes": []
+      },
+      {
+        "id": "24:8162",
+        "name": "Group",
+        "type": "GROUP",
+        "absoluteBoundingBox": {
+          "x": 3214.2548828125,
+          "y": 3982.721435546875,
+          "width": 95.00260925292969,
+          "height": 55.52299880981445
+        },
+        "absoluteRenderBounds": {
+          "x": 3214.2548828125,
+          "y": 3982.721435546875,
+          "width": 95.002685546875,
+          "height": 55.52299880981445
+        },
+        "fills": [],
+        "strokes": []
+      },
+      {
+        "id": "24:8166",
+        "name": "Group",
+        "type": "GROUP",
+        "visible": false,
+        "absoluteBoundingBox": {
+          "x": 3257.454345703125,
+          "y": 3652.666259765625,
+          "width": 103.02879333496094,
+          "height": 46.97490692138672
+        },
+        "absoluteRenderBounds": null,
+        "fills": [],
+        "strokes": []
+      },
+      {
+        "id": "24:8169",
+        "name": "Group",
+        "type": "GROUP",
+        "visible": false,
+        "absoluteBoundingBox": {
+          "x": 3194.181396484375,
+          "y": 3479.466064453125,
+          "width": 195.2709503173828,
+          "height": 168.6044464111328
+        },
+        "absoluteRenderBounds": null,
+        "fills": [],
+        "strokes": []
+      },
+      {
+        "id": "24:8184",
+        "name": "Vector",
+        "type": "VECTOR",
+        "absoluteBoundingBox": {
+          "x": 3185.544677734375,
+          "y": 3611.759033203125,
+          "width": 57.41999053955078,
+          "height": 31.259994506835938
+        },
+        "absoluteRenderBounds": {
+          "x": 3185.544677734375,
+          "y": 3611.759033203125,
+          "width": 57.419921875,
+          "height": 31.260009765625
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.6666666865348816,
+              "g": 0.6078431606292725,
+              "b": 0.9411764740943909,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "24:8185",
+        "name": "Vector",
+        "type": "VECTOR",
+        "visible": false,
+        "absoluteBoundingBox": {
+          "x": 3944.0048828125,
+          "y": 3509.999267578125,
+          "width": 85.3499755859375,
+          "height": 85.35000610351562
+        },
+        "absoluteRenderBounds": null,
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.9647058844566345,
+              "g": 0.9647058844566345,
+              "b": 0.9647058844566345,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "24:8186",
+        "name": "Line 1",
+        "type": "LINE",
+        "rotation": -0.5303741329060173,
+        "absoluteBoundingBox": {
+          "x": 3238.594970703125,
+          "y": 3544.9725365011327,
+          "width": 227.77733919357706,
+          "height": 133.5731177957423
+        },
+        "absoluteRenderBounds": {
+          "x": 3237.583251953125,
+          "y": 3543.247314453125,
+          "width": 228.7890625,
+          "height": 135.29833984375
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "24:8187",
+        "name": "Line 2",
+        "type": "VECTOR",
+        "rotation": -0.5303741329060173,
+        "absoluteBoundingBox": {
+          "x": 3149.988525390625,
+          "y": 3671.007007493241,
+          "width": 178.27185576640977,
+          "height": 104.72251178389797
+        },
+        "absoluteRenderBounds": {
+          "x": 3149.642578125,
+          "y": 3670.145263671875,
+          "width": 178.9638671875,
+          "height": 106.446044921875
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "24:8188",
+        "name": "Line 3",
+        "type": "VECTOR",
+        "rotation": -0.5303741329060173,
+        "absoluteBoundingBox": {
+          "x": 3463.116943359375,
+          "y": 3533.512910667775,
+          "width": 70.42969923236933,
+          "height": 41.81014093550493
+        },
+        "absoluteRenderBounds": {
+          "x": 3463.056396484375,
+          "y": 3532.656005859375,
+          "width": 70.55078125,
+          "height": 43.52392578125
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "24:8189",
+        "name": "Line 4",
+        "type": "VECTOR",
+        "rotation": -0.5303741329060173,
+        "absoluteBoundingBox": {
+          "x": 4051.201904296875,
+          "y": 3926.992359055741,
+          "width": 178.27185576640932,
+          "height": 104.72251178389797
+        },
+        "absoluteRenderBounds": {
+          "x": 4050.85595703125,
+          "y": 3926.130615234375,
+          "width": 178.9638671875,
+          "height": 106.446044921875
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "30:12175",
+        "name": "Group 2136136347",
+        "type": "GROUP",
+        "absoluteBoundingBox": {
+          "x": 3009.1689453125,
+          "y": 3119.104736328125,
+          "width": 590.5732421875,
+          "height": 747.10595703125
+        },
+        "absoluteRenderBounds": {
+          "x": 3107,
+          "y": 3498,
+          "width": 492.7421875,
+          "height": 368.210693359375
+        },
+        "fills": [],
+        "strokes": [],
+        "children": [
+          {
+            "id": "30:12177",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3054.123779296875,
+              "y": 3119.10498046875,
+              "width": 506.9688720703125,
+              "height": 747.10595703125
+            },
+            "absoluteRenderBounds": null,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.09019608050584793,
+                  "g": 0.09019608050584793,
+                  "b": 0.0784313753247261,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "30:12179",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3290.322509765625,
+              "y": 3439.968017578125,
+              "width": 27.63681411743164,
+              "height": 51.853004455566406
+            },
+            "absoluteRenderBounds": null,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.9333333373069763,
+                  "g": 0.886274516582489,
+                  "b": 0.9647058844566345,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "30:12181",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3183.545654296875,
+              "y": 3571.05029296875,
+              "width": 377.54730224609375,
+              "height": 292.0315246582031
+            },
+            "absoluteRenderBounds": {
+              "x": 3183.545654296875,
+              "y": 3571.05029296875,
+              "width": 377.54736328125,
+              "height": 292.031494140625
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.843137264251709,
+                  "g": 0.8039215803146362,
+                  "b": 0.9607843160629272,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "30:12182",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3339.329345703125,
+              "y": 3706.068603515625,
+              "width": 221.76351928710938,
+              "height": 155.01112365722656
+            },
+            "absoluteRenderBounds": {
+              "x": 3339.329345703125,
+              "y": 3706.068603515625,
+              "width": 221.763427734375,
+              "height": 155.01123046875
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.6666666865348816,
+                  "g": 0.6078431606292725,
+                  "b": 0.9411764740943909,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "30:12184",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3462.760986328125,
+              "y": 3829.928466796875,
+              "width": 16.279067993164062,
+              "height": 4.014945983886719
+            },
+            "absoluteRenderBounds": {
+              "x": 3462.760986328125,
+              "y": 3829.928466796875,
+              "width": 16.279052734375,
+              "height": 4.014892578125
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.47058823704719543,
+                  "g": 0.3921568691730499,
+                  "b": 0.843137264251709,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          }
+        ]
+      },
+      {
+        "id": "24:8190",
+        "name": "Line 5",
+        "type": "VECTOR",
+        "rotation": -0.5303741329060173,
+        "absoluteBoundingBox": {
+          "x": 3897.066162109375,
+          "y": 4010.809785667775,
+          "width": 70.42969923236933,
+          "height": 41.81014093550493
+        },
+        "absoluteRenderBounds": {
+          "x": 3897.005615234375,
+          "y": 4009.952880859375,
+          "width": 70.55078125,
+          "height": 43.52392578125
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "24:9044",
+        "name": "Наушники",
+        "type": "GROUP",
+        "absoluteBoundingBox": {
+          "x": 3428.196044921875,
+          "y": 3575.322998046875,
+          "width": 888.14990234375,
+          "height": 691.54150390625
+        },
+        "absoluteRenderBounds": {
+          "x": 3428.196044921875,
+          "y": 3575.322998046875,
+          "width": 878.803955078125,
+          "height": 552.677001953125
+        },
+        "fills": [],
+        "strokes": [],
+        "children": [
+          {
+            "id": "24:9045",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3428.196044921875,
+              "y": 3575.322998046875,
+              "width": 888.14990234375,
+              "height": 691.54150390625
+            },
+            "absoluteRenderBounds": {
+              "x": 3428.196044921875,
+              "y": 3575.322998046875,
+              "width": 878.803955078125,
+              "height": 552.677001953125
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.0941176488995552,
+                  "g": 0.0941176488995552,
+                  "b": 0.09019608050584793,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:9047",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3958.999755859375,
+              "y": 3951.54833984375,
+              "width": 265.96295166015625,
+              "height": 262.14508056640625
+            },
+            "absoluteRenderBounds": {
+              "x": 3958.999755859375,
+              "y": 3951.54833984375,
+              "width": 265.963134765625,
+              "height": 176.45166015625
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:9048",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 4004.482421875,
+              "y": 4031.0859375,
+              "width": 147.53323364257812,
+              "height": 166.55995178222656
+            },
+            "absoluteRenderBounds": {
+              "x": 4004.482421875,
+              "y": 4031.0859375,
+              "width": 147.533203125,
+              "height": 96.9140625
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.9607843160629272,
+                  "g": 0.9372549057006836,
+                  "b": 0.7882353067398071,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:9056",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3830.55419921875,
+              "y": 3895.9208984375,
+              "width": 264.1082458496094,
+              "height": 283.3659362792969
+            },
+            "absoluteRenderBounds": {
+              "x": 3830.55419921875,
+              "y": 3895.9208984375,
+              "width": 264.108154296875,
+              "height": 232.0791015625
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.843137264251709,
+                  "g": 0.8039215803146362,
+                  "b": 0.9607843160629272,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "24:9802",
+    "name": "Фон",
+    "type": "FRAME",
+    "absoluteBoundingBox": {
+      "x": 3112,
+      "y": 4791,
+      "width": 800,
+      "height": 1200
+    },
+    "absoluteRenderBounds": {
+      "x": 3112,
+      "y": 4791,
+      "width": 800,
+      "height": 1200
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.843137264251709,
+          "g": 0.8039215803146362,
+          "b": 0.9607843160629272,
+          "a": 1
+        }
+      }
+    ],
+    "strokes": [],
+    "children": [
+      {
+        "id": "24:9810",
+        "name": "Line 3",
+        "type": "VECTOR",
+        "rotation": -0.556144088067558,
+        "absoluteBoundingBox": {
+          "x": 3644.744140625,
+          "y": 4736.15399085846,
+          "width": 94.69539464044692,
+          "height": 59.586897446669354
+        },
+        "absoluteRenderBounds": {
+          "x": 3644.86181640625,
+          "y": 4791,
+          "width": 94.4599609375,
+          "height": 5.60986328125
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "24:9817",
+        "name": "Vector",
+        "type": "VECTOR",
+        "absoluteBoundingBox": {
+          "x": 3201.4736328125,
+          "y": 4914.8447265625,
+          "width": 57.41999053955078,
+          "height": 31.259994506835938
+        },
+        "absoluteRenderBounds": {
+          "x": 3201.4736328125,
+          "y": 4914.8447265625,
+          "width": 57.419921875,
+          "height": 31.259765625
+        },
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.6666666865348816,
+              "g": 0.6078431606292725,
+              "b": 0.9411764740943909,
+              "a": 1
+            }
+          }
+        ],
+        "strokes": []
+      },
+      {
+        "id": "24:9818",
+        "name": "Line 1",
+        "type": "LINE",
+        "rotation": -0.5303741329060173,
+        "absoluteBoundingBox": {
+          "x": 3254.52392578125,
+          "y": 4848.058229860508,
+          "width": 227.77733919357706,
+          "height": 133.5731177957423
+        },
+        "absoluteRenderBounds": {
+          "x": 3253.51220703125,
+          "y": 4846.3330078125,
+          "width": 228.7890625,
+          "height": 135.29833984375
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "24:9819",
+        "name": "Line 2",
+        "type": "VECTOR",
+        "rotation": -0.5303741329060173,
+        "absoluteBoundingBox": {
+          "x": 3165.91748046875,
+          "y": 4974.092456711991,
+          "width": 178.27185576640977,
+          "height": 104.72251178389797
+        },
+        "absoluteRenderBounds": {
+          "x": 3165.571533203125,
+          "y": 4973.23046875,
+          "width": 178.9638671875,
+          "height": 106.4462890625
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "24:9820",
+        "name": "Group",
+        "type": "GROUP",
+        "absoluteBoundingBox": {
+          "x": 3168.015380859375,
+          "y": 5860.7197265625,
+          "width": 95.00263977050781,
+          "height": 55.52275466918945
+        },
+        "absoluteRenderBounds": {
+          "x": 3168.015380859375,
+          "y": 5860.7197265625,
+          "width": 95.002685546875,
+          "height": 55.52294921875
+        },
+        "fills": [],
+        "strokes": []
+      },
+      {
+        "id": "24:9824",
+        "name": "Line 4",
+        "type": "VECTOR",
+        "rotation": -0.5303741329060173,
+        "absoluteBoundingBox": {
+          "x": 3666.1357421875,
+          "y": 5681.963550461991,
+          "width": 178.27185576640977,
+          "height": 104.72251178389797
+        },
+        "absoluteRenderBounds": {
+          "x": 3665.789794921875,
+          "y": 5681.1015625,
+          "width": 178.9638671875,
+          "height": 106.4462890625
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "24:9825",
+        "name": "Line 5",
+        "type": "VECTOR",
+        "rotation": -0.5303741329060173,
+        "absoluteBoundingBox": {
+          "x": 3512,
+          "y": 5765.7817094959,
+          "width": 70.42969923236933,
+          "height": 41.81014093550493
+        },
+        "absoluteRenderBounds": {
+          "x": 3511.939453125,
+          "y": 5764.9248046875,
+          "width": 70.55078125,
+          "height": 43.52392578125
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.47058823704719543,
+              "g": 0.3921568691730499,
+              "b": 0.843137264251709,
+              "a": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "24:9852",
+        "name": "Телефон",
+        "type": "GROUP",
+        "absoluteBoundingBox": {
+          "x": 3056.802001953125,
+          "y": 5263.8427734375,
+          "width": 796.531494140625,
+          "height": 461.6672058105469
+        },
+        "absoluteRenderBounds": {
+          "x": 3112,
+          "y": 5263.8427734375,
+          "width": 741.33349609375,
+          "height": 461.66748046875
+        },
+        "fills": [],
+        "strokes": [],
+        "children": [
+          {
+            "id": "24:9853",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3056.802001953125,
+              "y": 5263.8427734375,
+              "width": 796.5314331054688,
+              "height": 461.6670837402344
+            },
+            "absoluteRenderBounds": {
+              "x": 3112,
+              "y": 5263.8427734375,
+              "width": 741.33349609375,
+              "height": 461.6669921875
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.0941176488995552,
+                  "g": 0.0941176488995552,
+                  "b": 0.09019608050584793,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:9854",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3060.135498046875,
+              "y": 5265.73681640625,
+              "width": 715.1581420898438,
+              "height": 419.0478210449219
+            },
+            "absoluteRenderBounds": {
+              "x": 3112,
+              "y": 5265.73681640625,
+              "width": 663.293701171875,
+              "height": 419.0478515625
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:9856",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3265.33837890625,
+              "y": 5452.2060546875,
+              "width": 446.8140563964844,
+              "height": 191.6998748779297
+            },
+            "absoluteRenderBounds": {
+              "x": 3265.33837890625,
+              "y": 5452.2060546875,
+              "width": 446.81396484375,
+              "height": 191.69970703125
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.9764705896377563,
+                  "g": 0.9254902005195618,
+                  "b": 0.6901960968971252,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:9863",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3742.834716796875,
+              "y": 5560.95458984375,
+              "width": 3.5704448223114014,
+              "height": 2.7748069763183594
+            },
+            "absoluteRenderBounds": {
+              "x": 3742.834716796875,
+              "y": 5560.95458984375,
+              "width": 3.570556640625,
+              "height": 2.77490234375
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.13333334028720856,
+                  "g": 0.13333334028720856,
+                  "b": 0.12941177189350128,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:9872",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3380.00341796875,
+              "y": 5378.21240234375,
+              "width": 264.3795471191406,
+              "height": 160.58351135253906
+            },
+            "absoluteRenderBounds": {
+              "x": 3380.00341796875,
+              "y": 5378.21240234375,
+              "width": 264.379638671875,
+              "height": 160.58349609375
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.843137264251709,
+                  "g": 0.8039215803146362,
+                  "b": 0.9607843160629272,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:9948",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3679.819091796875,
+              "y": 5547.0458984375,
+              "width": 96.26366424560547,
+              "height": 87.88448333740234
+            },
+            "absoluteRenderBounds": {
+              "x": 3679.819091796875,
+              "y": 5547.0458984375,
+              "width": 96.263671875,
+              "height": 87.88427734375
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.47058823704719543,
+                  "g": 0.3921568691730499,
+                  "b": 0.843137264251709,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          }
+        ]
+      },
+      {
+        "id": "24:10008",
+        "name": "Пазлы",
+        "type": "GROUP",
+        "absoluteBoundingBox": {
+          "x": 3309.17041015625,
+          "y": 4974.09228515625,
+          "width": 544.1632080078125,
+          "height": 313.5343322753906
+        },
+        "absoluteRenderBounds": {
+          "x": 3309.17041015625,
+          "y": 4974.09228515625,
+          "width": 544.163330078125,
+          "height": 313.5343322753906
+        },
+        "fills": [],
+        "strokes": [],
+        "children": [
+          {
+            "id": "24:10009",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3309.17041015625,
+              "y": 4974.09228515625,
+              "width": 544.1632080078125,
+              "height": 313.5343322753906
+            },
+            "absoluteRenderBounds": {
+              "x": 3309.17041015625,
+              "y": 4974.09228515625,
+              "width": 544.163330078125,
+              "height": 313.5341796875
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.0941176488995552,
+                  "g": 0.0941176488995552,
+                  "b": 0.09019608050584793,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:10010",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3311.91064453125,
+              "y": 4976.41943359375,
+              "width": 339.5930480957031,
+              "height": 196.6119384765625
+            },
+            "absoluteRenderBounds": {
+              "x": 3311.91064453125,
+              "y": 4976.41943359375,
+              "width": 339.593017578125,
+              "height": 196.61181640625
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.9764705896377563,
+                  "g": 0.9254902005195618,
+                  "b": 0.6901960968971252,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:10012",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3567.833984375,
+              "y": 5010.89599609375,
+              "width": 31.971355438232422,
+              "height": 22.54229164123535
+            },
+            "absoluteRenderBounds": {
+              "x": 3567.833984375,
+              "y": 5010.89599609375,
+              "width": 31.971435546875,
+              "height": 22.54248046875
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:10018",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3488.3359375,
+              "y": 5076.044921875,
+              "width": 322.5521240234375,
+              "height": 194.1820526123047
+            },
+            "absoluteRenderBounds": {
+              "x": 3488.3359375,
+              "y": 5076.044921875,
+              "width": 322.55224609375,
+              "height": 194.18212890625
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.9764705896377563,
+                  "g": 0.6392157077789307,
+                  "b": 0.6666666865348816,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          },
+          {
+            "id": "24:10054",
+            "name": "Vector",
+            "type": "VECTOR",
+            "absoluteBoundingBox": {
+              "x": 3504.22509765625,
+              "y": 5088.15869140625,
+              "width": 113.17729949951172,
+              "height": 71.1166000366211
+            },
+            "absoluteRenderBounds": {
+              "x": 3504.22509765625,
+              "y": 5088.15869140625,
+              "width": 113.17724609375,
+              "height": 71.11669921875
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.843137264251709,
+                  "g": 0.8039215803146362,
+                  "b": 0.9607843160629272,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": []
+          }
+        ]
+      }
+    ]
+  }
+]

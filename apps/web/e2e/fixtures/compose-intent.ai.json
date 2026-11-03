@@ -1,0 +1,20 @@
+{
+  "source": "ai",
+  "variants": [
+    {
+      "items": [
+        { "item": "puzzle", "state": "main", "role": "hero" },
+        { "item": "lamp", "state": "main", "role": "support" }
+      ],
+      "rationale": "Пазл — общая работа над решением, лампа — идея."
+    },
+    {
+      "items": [
+        { "item": "lamp", "state": "main", "role": "hero" },
+        { "item": "puzzle", "state": "main", "role": "support" },
+        { "item": "folder", "state": "background", "role": "backdrop" }
+      ],
+      "rationale": "Идея в центре, команда собирает её по частям."
+    }
+  ]
+}

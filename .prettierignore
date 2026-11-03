@@ -1,0 +1,12 @@
+node_modules
+dist
+.superpowers
+coverage
+.vercel
+.env
+docs
+tools/figma-export-plugin/code.js
+tools/figma-export-plugin/nodes.generated.js
+packages/library/assets/
+packages/library/data/
+packages/library/sync-report.md

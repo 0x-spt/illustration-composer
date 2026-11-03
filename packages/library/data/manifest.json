@@ -1,0 +1,1239 @@
+{
+  "version": 1,
+  "figmaFileKey": "aOU1ip0vht8BGoNJi2e0dc",
+  "syncedAt": "2026-11-03T05:21:47.050Z",
+  "items": [
+    {
+      "id": "book",
+      "label": "Книга",
+      "nominalWidth": 1446,
+      "nominalHeight": 977,
+      "stacking": "surface",
+      "variants": {
+        "L": {
+          "main": {
+            "file": "assets/L/book.main.svg",
+            "width": 1446,
+            "height": 977,
+            "viewBox": "0 0 1446 977",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#F9A3AA": "obj2",
+              "#FFE3E1": "obj3",
+              "#F9ECB0": "obj1",
+              "#FFFFFF": "paper"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/L/book.background.svg",
+            "width": 1446,
+            "height": 977,
+            "viewBox": "0 0 1446 977",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        },
+        "S": {
+          "main": {
+            "file": "assets/S/book.main.svg",
+            "width": 723,
+            "height": 489,
+            "viewBox": "0 0 723 489",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#FFFFFF": "paper",
+              "#181817": "ink",
+              "#F9A3AA": "obj2",
+              "#F9ECB0": "obj1"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/S/book.background.svg",
+            "width": 723,
+            "height": 489,
+            "viewBox": "0 0 723 489",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#D7CDF5": "bg1",
+              "#7864D7": "bg3"
+            },
+            "pinned": []
+          }
+        }
+      }
+    },
+    {
+      "id": "phone",
+      "label": "Телефон",
+      "nominalWidth": 797,
+      "nominalHeight": 462,
+      "stacking": "flat",
+      "variants": {
+        "L": {
+          "main": {
+            "file": "assets/L/phone.main.svg",
+            "width": 797,
+            "height": 462,
+            "viewBox": "0 0 797 462",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#FFFFFF": "paper",
+              "#F9ECB0": "obj1",
+              "#D7CDF5": "bg1",
+              "#7864D7": "bg3"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/L/phone.background.svg",
+            "width": 797,
+            "height": 462,
+            "viewBox": "0 0 797 462",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        },
+        "S": {
+          "main": {
+            "file": "assets/S/phone.main.svg",
+            "width": 399,
+            "height": 231,
+            "viewBox": "0 0 399 231",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#FFFFFF": "paper",
+              "#F9ECB0": "obj1",
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/S/phone.background.svg",
+            "width": 399,
+            "height": 231,
+            "viewBox": "0 0 399 231",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        }
+      }
+    },
+    {
+      "id": "puzzle",
+      "label": "Пазлы",
+      "nominalWidth": 545,
+      "nominalHeight": 314,
+      "stacking": "flat",
+      "variants": {
+        "L": {
+          "main": {
+            "file": "assets/L/puzzle.main.svg",
+            "width": 545,
+            "height": 314,
+            "viewBox": "0 0 545 314",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#F9ECB0": "obj1",
+              "#FFFFFF": "paper",
+              "#F9A3AA": "obj2"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/L/puzzle.background.svg",
+            "width": 545,
+            "height": 314,
+            "viewBox": "0 0 545 314",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        },
+        "S": {
+          "main": {
+            "file": "assets/S/puzzle.main.svg",
+            "width": 273,
+            "height": 157,
+            "viewBox": "0 0 273 157",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#F9ECB0": "obj1",
+              "#FFFFFF": "paper",
+              "#F9A3AA": "obj2",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/S/puzzle.background.svg",
+            "width": 273,
+            "height": 157,
+            "viewBox": "0 0 273 157",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        }
+      }
+    },
+    {
+      "id": "coin",
+      "label": "Монета",
+      "nominalWidth": 287,
+      "nominalHeight": 189,
+      "stacking": "flat",
+      "variants": {
+        "L": {
+          "main": {
+            "file": "assets/L/coin.main.svg",
+            "width": 287,
+            "height": 189,
+            "viewBox": "0 0 287 189",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#FFFFFF": "paper",
+              "#F9ECB0": "obj1",
+              "#181817": "ink"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/L/coin.background.svg",
+            "width": 287,
+            "height": 189,
+            "viewBox": "0 0 287 189",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#D7CDF5": "bg1",
+              "#7864D7": "bg3"
+            },
+            "pinned": []
+          }
+        },
+        "S": {
+          "main": {
+            "file": "assets/S/coin.main.svg",
+            "width": 153,
+            "height": 101,
+            "viewBox": "0 0 153 101",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#FFFFFF": "paper",
+              "#F9ECB0": "obj1",
+              "#181817": "ink"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/S/coin.background.svg",
+            "width": 153,
+            "height": 101,
+            "viewBox": "0 0 153 101",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#D7CDF5": "bg1",
+              "#7864D7": "bg3"
+            },
+            "pinned": []
+          }
+        }
+      }
+    },
+    {
+      "id": "headphones",
+      "label": "Наушники",
+      "nominalWidth": 889,
+      "nominalHeight": 692,
+      "stacking": "standing",
+      "variants": {
+        "L": {
+          "main": {
+            "file": "assets/L/headphones.main.svg",
+            "width": 889,
+            "height": 692,
+            "viewBox": "0 0 889 692",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#FFFFFF": "paper",
+              "#F9ECB0": "obj1",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/L/headphones.background.svg",
+            "width": 889,
+            "height": 692,
+            "viewBox": "0 0 889 692",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        },
+        "S": {
+          "main": {
+            "file": "assets/S/headphones.main.svg",
+            "width": 445,
+            "height": 346,
+            "viewBox": "0 0 445 346",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#FFFFFF": "paper",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/S/headphones.background.svg",
+            "width": 445,
+            "height": 346,
+            "viewBox": "0 0 445 346",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        }
+      }
+    },
+    {
+      "id": "lamp",
+      "label": "Лампа",
+      "nominalWidth": 946,
+      "nominalHeight": 1129,
+      "stacking": "standing",
+      "variants": {
+        "L": {
+          "main": {
+            "file": "assets/L/lamp.main.svg",
+            "width": 946,
+            "height": 1129,
+            "viewBox": "0 0 946 1129",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#FFFFFF": "paper",
+              "#D7CDF5": "bg1",
+              "#F9ECB0": "obj1",
+              "#F9A3AA": "obj2"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/L/lamp.background.svg",
+            "width": 946,
+            "height": 1129,
+            "viewBox": "0 0 946 1129",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        },
+        "S": {
+          "main": {
+            "file": "assets/S/lamp.main.svg",
+            "width": 473,
+            "height": 565,
+            "viewBox": "0 0 473 565",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#FFFFFF": "paper",
+              "#D7CDF5": "bg1",
+              "#F9ECB0": "obj1",
+              "#F9A3AA": "obj2"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/S/lamp.background.svg",
+            "width": 473,
+            "height": 565,
+            "viewBox": "0 0 473 565",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        }
+      }
+    },
+    {
+      "id": "vase",
+      "label": "Ваза с тюльпанами",
+      "nominalWidth": 591,
+      "nominalHeight": 748,
+      "stacking": "standing",
+      "variants": {
+        "L": {
+          "main": {
+            "file": "assets/L/vase.main.svg",
+            "width": 591,
+            "height": 748,
+            "viewBox": "0 0 591 748",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#FFFFFF": "paper",
+              "#F9ECB0": "obj1",
+              "#AA9BF0": "bg2",
+              "#F9A3AA": "obj2"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/L/vase.background.svg",
+            "width": 591,
+            "height": 748,
+            "viewBox": "0 0 591 748",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        },
+        "S": {
+          "main": {
+            "file": "assets/S/vase.main.svg",
+            "width": 324,
+            "height": 409,
+            "viewBox": "0 0 324 409",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#FFFFFF": "paper",
+              "#F9ECB0": "obj1",
+              "#AA9BF0": "bg2",
+              "#F9A3AA": "obj2"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/S/vase.background.svg",
+            "width": 324,
+            "height": 409,
+            "viewBox": "0 0 324 409",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        }
+      }
+    },
+    {
+      "id": "wallet",
+      "label": "Кошелёк",
+      "nominalWidth": 631,
+      "nominalHeight": 397,
+      "stacking": "surface",
+      "variants": {
+        "L": {
+          "main": {
+            "file": "assets/L/wallet.main.svg",
+            "width": 631,
+            "height": 397,
+            "viewBox": "0 0 631 397",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#D7CDF5": "bg1",
+              "#181817": "ink",
+              "#F9ECB0": "obj1",
+              "#FFFFFF": "paper"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/L/wallet.background.svg",
+            "width": 631,
+            "height": 397,
+            "viewBox": "0 0 631 397",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#D7CDF5": "bg1",
+              "#7864D7": "bg3"
+            },
+            "pinned": []
+          }
+        },
+        "S": {
+          "main": {
+            "file": "assets/S/wallet.main.svg",
+            "width": 316,
+            "height": 199,
+            "viewBox": "0 0 316 199",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#D7CDF5": "bg1",
+              "#181817": "ink",
+              "#F9ECB0": "obj1",
+              "#FFFFFF": "paper"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/S/wallet.background.svg",
+            "width": 316,
+            "height": 199,
+            "viewBox": "0 0 316 199",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#D7CDF5": "bg1",
+              "#7864D7": "bg3"
+            },
+            "pinned": []
+          }
+        }
+      }
+    },
+    {
+      "id": "folder",
+      "label": "Папка",
+      "nominalWidth": 1241,
+      "nominalHeight": 659,
+      "stacking": "surface",
+      "variants": {
+        "L": {
+          "main": {
+            "file": "assets/L/folder.main.svg",
+            "width": 1241,
+            "height": 659,
+            "viewBox": "0 0 1241 659",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#F9ECB0": "obj1",
+              "#181817": "ink",
+              "#FFFFFF": "paper",
+              "#F9A3AA": "obj2"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/L/folder.background.svg",
+            "width": 1241,
+            "height": 659,
+            "viewBox": "0 0 1241 659",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#D7CDF5": "bg1",
+              "#7864D7": "bg3"
+            },
+            "pinned": []
+          }
+        },
+        "S": {
+          "main": {
+            "file": "assets/S/folder.main.svg",
+            "width": 621,
+            "height": 330,
+            "viewBox": "0 0 621 330",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#F9ECB0": "obj1",
+              "#181817": "ink",
+              "#FFFFFF": "paper"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/S/folder.background.svg",
+            "width": 621,
+            "height": 330,
+            "viewBox": "0 0 621 330",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#D7CDF5": "bg1",
+              "#7864D7": "bg3"
+            },
+            "pinned": []
+          }
+        }
+      }
+    },
+    {
+      "id": "pen",
+      "label": "Ручка",
+      "nominalWidth": 509,
+      "nominalHeight": 286,
+      "stacking": "flat",
+      "variants": {
+        "L": {
+          "main": {
+            "file": "assets/L/pen.main.svg",
+            "width": 509,
+            "height": 286,
+            "viewBox": "0 0 509 286",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#D7CDF5": "bg1",
+              "#FFFFFF": "paper",
+              "#F9A3AA": "obj2",
+              "#F9ECB0": "obj1"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/L/pen.background.svg",
+            "width": 509,
+            "height": 286,
+            "viewBox": "0 0 509 286",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        },
+        "S": {
+          "main": {
+            "file": "assets/S/pen.main.svg",
+            "width": 255,
+            "height": 143,
+            "viewBox": "0 0 255 143",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#181817": "ink",
+              "#FFFFFF": "paper",
+              "#F9A3AA": "obj2"
+            },
+            "pinned": []
+          },
+          "background": {
+            "file": "assets/S/pen.background.svg",
+            "width": 255,
+            "height": 143,
+            "viewBox": "0 0 255 143",
+            "sourcePalette": "lilac",
+            "colorMap": {
+              "#7864D7": "bg3",
+              "#D7CDF5": "bg1"
+            },
+            "pinned": []
+          }
+        }
+      }
+    }
+  ],
+  "decor": [
+    {
+      "id": "confetti-L-01",
+      "preset": "confetti-L",
+      "size": "L",
+      "asset": {
+        "file": "assets/decor/confetti-L-01.svg",
+        "width": 95,
+        "height": 754,
+        "viewBox": "0 0 95 754",
+        "sourcePalette": "lilac",
+        "colorMap": {
+          "#AA9BF0": "bg2",
+          "#7864D7": "bg3",
+          "#FFFFFF": "paper"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "bl",
+        "dx": 71.37,
+        "dy": -802.4
+      }
+    },
+    {
+      "id": "confetti-L-02",
+      "preset": "confetti-L",
+      "size": "L",
+      "asset": {
+        "file": "assets/decor/confetti-L-02.svg",
+        "width": 229,
+        "height": 136,
+        "viewBox": "0 0 229 136",
+        "sourcePalette": "lilac",
+        "colorMap": {
+          "#7864D7": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "tl",
+        "dx": 139.41,
+        "dy": 129.09
+      }
+    },
+    {
+      "id": "confetti-L-03",
+      "preset": "confetti-L",
+      "size": "L",
+      "asset": {
+        "file": "assets/decor/confetti-L-03.svg",
+        "width": 179,
+        "height": 107,
+        "viewBox": "0 0 179 107",
+        "sourcePalette": "lilac",
+        "colorMap": {
+          "#7864D7": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "tl",
+        "dx": 51.47,
+        "dy": 255.99
+      }
+    },
+    {
+      "id": "confetti-L-04",
+      "preset": "confetti-L",
+      "size": "L",
+      "asset": {
+        "file": "assets/decor/confetti-L-04.svg",
+        "width": 179,
+        "height": 107,
+        "viewBox": "0 0 179 107",
+        "sourcePalette": "lilac",
+        "colorMap": {
+          "#7864D7": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "br",
+        "dx": -280.29,
+        "dy": -236.56
+      }
+    },
+    {
+      "id": "confetti-L-05",
+      "preset": "confetti-L",
+      "size": "L",
+      "asset": {
+        "file": "assets/decor/confetti-L-05.svg",
+        "width": 71,
+        "height": 44,
+        "viewBox": "0 0 71 44",
+        "sourcePalette": "lilac",
+        "colorMap": {
+          "#7864D7": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "tl",
+        "dx": 364.88,
+        "dy": 118.5
+      }
+    },
+    {
+      "id": "confetti-L-06",
+      "preset": "confetti-L",
+      "size": "L",
+      "asset": {
+        "file": "assets/decor/confetti-L-06.svg",
+        "width": 71,
+        "height": 44,
+        "viewBox": "0 0 71 44",
+        "sourcePalette": "lilac",
+        "colorMap": {
+          "#7864D7": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "br",
+        "dx": -434.14,
+        "dy": -152.73
+      }
+    },
+    {
+      "id": "corner-L-01",
+      "preset": "corner-L",
+      "size": "L",
+      "asset": {
+        "file": "assets/decor/corner-L-01.svg",
+        "width": 530,
+        "height": 262,
+        "viewBox": "0 0 530 262",
+        "sourcePalette": "peach",
+        "colorMap": {
+          "#FAC896": "bg2"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "br",
+        "dx": -529.35,
+        "dy": -261.83
+      }
+    },
+    {
+      "id": "corner-L-02",
+      "preset": "corner-L",
+      "size": "L",
+      "asset": {
+        "file": "assets/decor/corner-L-02.svg",
+        "width": 743,
+        "height": 356,
+        "viewBox": "0 0 743 356",
+        "sourcePalette": "peach",
+        "colorMap": {
+          "#D27532": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "tr",
+        "dx": -742.81,
+        "dy": 0
+      }
+    },
+    {
+      "id": "corner-L-03",
+      "preset": "corner-L",
+      "size": "L",
+      "asset": {
+        "file": "assets/decor/corner-L-03.svg",
+        "width": 616,
+        "height": 250,
+        "viewBox": "0 0 616 250",
+        "sourcePalette": "peach",
+        "colorMap": {
+          "#D27532": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "br",
+        "dx": -616,
+        "dy": -249.82
+      }
+    },
+    {
+      "id": "confetti-bold-S-01",
+      "preset": "confetti-bold-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/confetti-bold-S-01.svg",
+        "width": 48,
+        "height": 377,
+        "viewBox": "0 0 48 377",
+        "sourcePalette": "lilac",
+        "colorMap": {
+          "#AA9BF0": "bg2",
+          "#7864D7": "bg3",
+          "#FFFFFF": "paper"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "bl",
+        "dx": 35.68,
+        "dy": -401.2
+      }
+    },
+    {
+      "id": "confetti-bold-S-02",
+      "preset": "confetti-bold-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/confetti-bold-S-02.svg",
+        "width": 115,
+        "height": 69,
+        "viewBox": "0 0 115 69",
+        "sourcePalette": "lilac",
+        "colorMap": {
+          "#7864D7": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "tl",
+        "dx": 69.2,
+        "dy": 63.68
+      }
+    },
+    {
+      "id": "confetti-bold-S-03",
+      "preset": "confetti-bold-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/confetti-bold-S-03.svg",
+        "width": 90,
+        "height": 55,
+        "viewBox": "0 0 90 55",
+        "sourcePalette": "lilac",
+        "colorMap": {
+          "#7864D7": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "tl",
+        "dx": 25.48,
+        "dy": 127.56
+      }
+    },
+    {
+      "id": "confetti-bold-S-04",
+      "preset": "confetti-bold-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/confetti-bold-S-04.svg",
+        "width": 90,
+        "height": 55,
+        "viewBox": "0 0 90 55",
+        "sourcePalette": "lilac",
+        "colorMap": {
+          "#7864D7": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "br",
+        "dx": -140.4,
+        "dy": -118.71
+      }
+    },
+    {
+      "id": "confetti-bold-S-05",
+      "preset": "confetti-bold-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/confetti-bold-S-05.svg",
+        "width": 36,
+        "height": 23,
+        "viewBox": "0 0 36 23",
+        "sourcePalette": "lilac",
+        "colorMap": {
+          "#7864D7": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "tl",
+        "dx": 182.18,
+        "dy": 58.82
+      }
+    },
+    {
+      "id": "confetti-bold-S-06",
+      "preset": "confetti-bold-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/confetti-bold-S-06.svg",
+        "width": 36,
+        "height": 23,
+        "viewBox": "0 0 36 23",
+        "sourcePalette": "lilac",
+        "colorMap": {
+          "#7864D7": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "br",
+        "dx": -217.33,
+        "dy": -76.79
+      }
+    },
+    {
+      "id": "confetti-S-01",
+      "preset": "confetti-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/confetti-S-01.svg",
+        "width": 48,
+        "height": 377,
+        "viewBox": "0 0 48 377",
+        "sourcePalette": "mint",
+        "colorMap": {
+          "#80DADA": "bg2",
+          "#5ABEBE": "bg3",
+          "#FFFFFF": "paper"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "bl",
+        "dx": 35.68,
+        "dy": -401.2
+      }
+    },
+    {
+      "id": "confetti-S-02",
+      "preset": "confetti-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/confetti-S-02.svg",
+        "width": 115,
+        "height": 68,
+        "viewBox": "0 0 115 68",
+        "sourcePalette": "mint",
+        "colorMap": {
+          "#5ABEBE": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "tl",
+        "dx": 69.7,
+        "dy": 64.54
+      }
+    },
+    {
+      "id": "confetti-S-03",
+      "preset": "confetti-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/confetti-S-03.svg",
+        "width": 90,
+        "height": 54,
+        "viewBox": "0 0 90 54",
+        "sourcePalette": "mint",
+        "colorMap": {
+          "#5ABEBE": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "tl",
+        "dx": 25.73,
+        "dy": 127.99
+      }
+    },
+    {
+      "id": "confetti-S-04",
+      "preset": "confetti-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/confetti-S-04.svg",
+        "width": 90,
+        "height": 54,
+        "viewBox": "0 0 90 54",
+        "sourcePalette": "mint",
+        "colorMap": {
+          "#5ABEBE": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "br",
+        "dx": -140.15,
+        "dy": -118.28
+      }
+    },
+    {
+      "id": "confetti-S-05",
+      "preset": "confetti-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/confetti-S-05.svg",
+        "width": 36,
+        "height": 22,
+        "viewBox": "0 0 36 22",
+        "sourcePalette": "mint",
+        "colorMap": {
+          "#5ABEBE": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "tl",
+        "dx": 182.44,
+        "dy": 59.25
+      }
+    },
+    {
+      "id": "confetti-S-06",
+      "preset": "confetti-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/confetti-S-06.svg",
+        "width": 36,
+        "height": 22,
+        "viewBox": "0 0 36 22",
+        "sourcePalette": "mint",
+        "colorMap": {
+          "#5ABEBE": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "br",
+        "dx": -217.07,
+        "dy": -76.37
+      }
+    },
+    {
+      "id": "corner-S-01",
+      "preset": "corner-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/corner-S-01.svg",
+        "width": 265,
+        "height": 131,
+        "viewBox": "0 0 265 131",
+        "sourcePalette": "peach",
+        "colorMap": {
+          "#FAC896": "bg2"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "br",
+        "dx": -264.67,
+        "dy": -130.91
+      }
+    },
+    {
+      "id": "corner-S-02",
+      "preset": "corner-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/corner-S-02.svg",
+        "width": 372,
+        "height": 178,
+        "viewBox": "0 0 372 178",
+        "sourcePalette": "peach",
+        "colorMap": {
+          "#D27532": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "tr",
+        "dx": -371.41,
+        "dy": 0
+      }
+    },
+    {
+      "id": "corner-S-03",
+      "preset": "corner-S",
+      "size": "S",
+      "asset": {
+        "file": "assets/decor/corner-S-03.svg",
+        "width": 308,
+        "height": 125,
+        "viewBox": "0 0 308 125",
+        "sourcePalette": "peach",
+        "colorMap": {
+          "#D27532": "bg3"
+        },
+        "pinned": []
+      },
+      "anchor": {
+        "corner": "br",
+        "dx": -308,
+        "dy": -124.91
+      }
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "confetti-L",
+      "label": "Конфетти и линии",
+      "size": "L",
+      "frameSize": 1000,
+      "decorIds": [
+        "confetti-L-01",
+        "confetti-L-02",
+        "confetti-L-03",
+        "confetti-L-04",
+        "confetti-L-05",
+        "confetti-L-06"
+      ]
+    },
+    {
+      "id": "corner-L",
+      "label": "Угол и линии",
+      "size": "L",
+      "frameSize": 1000,
+      "decorIds": [
+        "corner-L-01",
+        "corner-L-02",
+        "corner-L-03"
+      ]
+    },
+    {
+      "id": "confetti-bold-S",
+      "label": "Конфетти и толстые линии",
+      "size": "S",
+      "frameSize": 500,
+      "decorIds": [
+        "confetti-bold-S-01",
+        "confetti-bold-S-02",
+        "confetti-bold-S-03",
+        "confetti-bold-S-04",
+        "confetti-bold-S-05",
+        "confetti-bold-S-06"
+      ]
+    },
+    {
+      "id": "confetti-S",
+      "label": "Конфетти и линии",
+      "size": "S",
+      "frameSize": 500,
+      "decorIds": [
+        "confetti-S-01",
+        "confetti-S-02",
+        "confetti-S-03",
+        "confetti-S-04",
+        "confetti-S-05",
+        "confetti-S-06"
+      ]
+    },
+    {
+      "id": "corner-S",
+      "label": "Угол и линии",
+      "size": "S",
+      "frameSize": 500,
+      "decorIds": [
+        "corner-S-01",
+        "corner-S-02",
+        "corner-S-03"
+      ]
+    }
+  ]
+}
